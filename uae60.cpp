@@ -4047,4 +4047,3 @@ void uae60_Delay(ULONG unit) {
 void uae60_execute_instruction(uint16_t opcode) {
     // ... (código de la función - Ver Mensaje 00732)
 }
-
